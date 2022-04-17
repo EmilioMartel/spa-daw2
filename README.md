@@ -13,6 +13,7 @@ Para probar este sitio web hay que ejecutar los siguientes comandos:
 ## Tecnologías usadas
 * Angular
 * Typescript
+* [RestCoutries](https://restcountries.com/)
 
 ## Autor
 __Emilio Martel Díaz__
